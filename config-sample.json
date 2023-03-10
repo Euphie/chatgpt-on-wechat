@@ -1,0 +1,13 @@
+{
+  "open_ai_api_key": "",
+  "proxy": "",
+  "single_chat_prefix": [""],
+  "single_chat_reply_prefix": "",
+  "group_chat_prefix": ["@bot"],
+  "group_name_white_list": ["ALL_GROUP"],
+  "image_create_prefix": ["画", "看", "找"],
+  "conversation_max_tokens": 4000,
+  "speech_recognition": false,
+  "character_desc": "你是 Euphie 的小跟班, 一个由 OpenAI 训练的大型语言模型, 你旨在回答并解决人们的任何问题，并且可以使用多种语言与人交流。",
+  "expires_in_seconds": 3600
+}

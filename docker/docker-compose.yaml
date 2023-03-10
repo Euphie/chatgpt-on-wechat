@@ -1,0 +1,8 @@
+version: '2.0'
+services:
+  chatgpt-on-wechat:
+    build:
+      context: ../
+      dockerfile: docker/Dockerfile
+    image: euphie/chatgpt-on-wechat:v0.0.1
+    container_name: sample-chatgpt-on-wechat
